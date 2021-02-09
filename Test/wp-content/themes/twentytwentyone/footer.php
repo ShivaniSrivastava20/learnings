@@ -70,5 +70,6 @@
 
 <?php wp_footer(); ?>
 
+kuch bhi swati
 </body>
 </html>
